@@ -20,7 +20,7 @@
 
 [@stylistic/eslint-plugin](https://eslint.style/packages/default) — стилистические правила для JavaScript, TypeScript и JSX.
 
-[Выпущен ESLint v9.0.0](https://github.com/vuejs/eslint-config-prettier/issues/19) [+](https://github.com/vuejs/eslint-config-prettier/issues/19)
+[Выпущен ESLint v9.0.0](https://github.com/vuejs/eslint-config-prettier/issues/19) + [a working configuration](https://github.com/vuejs/eslint-config-prettier/issues/19)
 
 ## `Jest`
 
